@@ -13,6 +13,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - NodeJS
 - Express
 - MongoDB
+- GraphQL
 - Interview Preparation
 - DSA
 - Architecture
@@ -21,3 +22,11 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ## Javascript
 * Fundamentals
 * ES6 + Latest
+
+### Fundamentals
+- [ ] # JS execution
+- [ ] # Clouser
+- [ ] # Hoisting
+- [ ] # Call, Apply, Bind
+- [ ] # Scoping (var, let, const)
+- [ ] # Latest ES Feature (destructuring, map, for in, for of, reducer)
