@@ -1,8 +1,10 @@
 # Fullstack
 Here we will discuss the full-stack Guide and mainly will focus on the MERN STACK.
 
-Refer below link to wright readme file and get all the syntax   
+> [!TIP]
+>Refer below link to wright readme file and get all the syntax   
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 
 ## MERN - Mongo, Express, React, Node
 ## Topics to address
@@ -15,3 +17,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - DSA
 - Architecture
 - AI (Generative AI)
+
+## Javascript
+* Fundamentals
+* ES6 + Latest
