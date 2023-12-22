@@ -37,7 +37,11 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 **Spider Monkey (MOZILA)**: This is the first engine.  
 **V8 Engine (Chrome)**: Extremely fast and can run standalone, Nodejs js run time uses the v8 engine.  
-**Chakra (Edge)**: Microsoft engine edge and internet explorer use it.  
+**Chakra (Edge)**: Microsoft engine edge and internet explorer use it. 
+
+**Compilar vs Interpreter**
+> * The compiler compiles the all code into the machine code at once whereas the Interpreter interprets the code line by line.
+> * The compiler is slow to write time as it needs to compile the whole before going to execute whereas the interpreter is the opposite.
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/JS%20ENgine.png)  
