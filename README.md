@@ -34,3 +34,4 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 * Latest ES Feature (destructuring, map, for in, for of, reducer)
 
 ### JS execution
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/JS%20ENgine.png)
