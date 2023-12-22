@@ -24,9 +24,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 * ES6 + Latest
 
 ### Fundamentals
-- [ ] # JS execution
-- [ ] # Clouser
-- [ ] # Hoisting
-- [ ] # Call, Apply, Bind
-- [ ] # Scoping (var, let, const)
-- [ ] # Latest ES Feature (destructuring, map, for in, for of, reducer)
+* JS execution 
+* Clouser  
+* Hoisting  
+* Call, Apply, Bind  
+* Scoping (var, let, const)  
+      
+### ES6 + Latest
+* Latest ES Feature (destructuring, map, for in, for of, reducer)
+
+### JS execution
