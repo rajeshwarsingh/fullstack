@@ -57,3 +57,6 @@ Here is explained how our js code like var, array, function, etc. will get to ma
 
 ## Typescript
 
+### 1. What is Typescript
+
+
