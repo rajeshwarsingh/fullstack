@@ -9,6 +9,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 ## MERN - Mongo, Express, React, Node
 ## Topics to address
 - Javascript
+- Typescript
 - React
 - NodeJS
 - Express
@@ -53,3 +54,6 @@ Here is explained how our js code like var, array, function, etc. will get to ma
 > * **Interpreter**  Next step Interpreter takes the AST and converts it to BYTECODE
 > * **Byte Code** It is executed by the JavaScript engine's interpreter or a just-in-time (JIT) compiler, which converts the bytecode into machine code that the computer's processor can understand and execute.
 > * **Machine Code**  Machine code is the binary(1 and 0) that our computer hardware understands(CPU)
+
+## Typescript
+
